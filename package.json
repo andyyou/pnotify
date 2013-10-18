@@ -1,0 +1,27 @@
+{
+  "name": "pnotify-bootstrap3",
+  "version": "0.0.1",
+  "description": "Update pnotify for bootstrap 3",
+  "main": "jquery.pnotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndyYou/pnotify.git"
+  },
+  "keywords": [
+    "Pnofity"
+  ],
+  "author": "AndyYou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndyYou/pnotify/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-cssmin": "~0.6.2",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
