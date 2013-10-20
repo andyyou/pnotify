@@ -91,3 +91,8 @@ right: auto;
 bottom: 25px;
 top: auto;
 }
+/* Custom css*/
+.no-radius{
+  border-radius: 0;
+  border:none;
+}

@@ -49,9 +49,9 @@
 				pin_up: "glyphicon glyphicon-pause",
 				pin_down: "glyphicon glyphicon-play",
 				hi_menu: "well",
-				hi_btn: "btn",
+				hi_btn: "btn btn-sm btn-default no-radius",
 				hi_btnhov: "",
-				hi_hnd: "glyphicon glyphicon-chevron-down"
+				hi_hnd: "glyphicon glyphicon-bell"
 			}
 		};
 	// Set global variables.
